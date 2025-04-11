@@ -10,7 +10,7 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-semibold mb-4">ZenBuzz Media</h3>
             <p className="text-gray-300 mb-4">
-              Transforming digital presence with strategic marketing solutions that drive growth and engagement.
+            At ZenBuzz, we’re passionate about helping businesses succeed in the digital world.
             </p>
             <div className="flex gap-4">
               <a href="#" className="text-gray-300 hover:text-zenbuzz-lightPurple transition-colors">
@@ -58,15 +58,15 @@ const Footer = () => {
             <ul className="flex flex-col gap-4">
               <li className="flex gap-3">
                 <MapPin className="text-zenbuzz-lightPurple" size={20} />
-                <span className="text-gray-300">123 Digital Avenue, Web City, IN 560001</span>
+                <span className="text-gray-300">Bhamasha Techno Hub</span>
               </li>
               <li className="flex gap-3">
                 <Phone className="text-zenbuzz-lightPurple" size={20} />
-                <span className="text-gray-300">+91 98765 43210</span>
+                <span className="text-gray-300">+91 7850 859 204</span>
               </li>
               <li className="flex gap-3">
                 <Mail className="text-zenbuzz-lightPurple" size={20} />
-                <span className="text-gray-300">info@zenbuzzmedia.in</span>
+                <span className="text-gray-300">zenbuzzmedia@gmail.com</span>
               </li>
             </ul>
           </div>

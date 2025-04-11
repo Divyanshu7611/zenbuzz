@@ -9,12 +9,16 @@ import StatsSection from "@/components/sections/StatsSection";
 import CtaSection from "@/components/sections/CtaSection";
 import ContactSection from "@/components/sections/ContactSection";
 import Footer from "@/components/Footer";
+import Hero2 from "@/components/sections/Hero2";
+import WhyDigitalMarketing from "@/components/sections/DigitalMarketing";
 
 const Index = () => {
   return (
     <div className="min-h-screen">
       <Navbar />
       <HeroSection />
+      <Hero2 />
+      <WhyDigitalMarketing />
       <ServicesSection />
       <PortfolioSection />
       <StatsSection />

@@ -48,17 +48,17 @@ const ContactSection = () => {
     {
       icon: <MapPin className="h-6 w-6 text-zenbuzz-purple" />,
       title: "Our Location",
-      details: "123 Digital Avenue, Web City, IN 560001"
+      details: "Bhamasha Techno Hub"
     },
     {
       icon: <Mail className="h-6 w-6 text-zenbuzz-purple" />,
       title: "Email Us",
-      details: "info@zenbuzzmedia.in"
+      details: "zenbuzzmedia@gmail.com"
     },
     {
       icon: <Phone className="h-6 w-6 text-zenbuzz-purple" />,
       title: "Call Us",
-      details: "+91 98765 43210"
+      details: "+91 78508 59204"
     }
   ];
   

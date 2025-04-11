@@ -17,7 +17,7 @@ const CtaSection = () => {
             <Button className="bg-white text-zenbuzz-purple hover:bg-gray-100 text-lg">
               Schedule a Consultation
             </Button>
-            <Button variant="outline" className="border-white text-white hover:bg-white/10 text-lg">
+            <Button variant="outline" className="border-white text-zenbuzz-purple hover:bg-white/10 text-lg">
               View Our Services
             </Button>
           </div>

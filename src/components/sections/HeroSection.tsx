@@ -17,7 +17,7 @@ const HeroSection = () => {
             <Button className="bg-zenbuzz-purple hover:bg-zenbuzz-darkPurple text-white px-8 py-6 text-lg">
               Get Started
             </Button>
-            <Button variant="outline" className="border-zenbuzz-purple text-zenbuzz-purple hover:bg-zenbuzz-purple/10 group px-8 py-6 text-lg">
+            <Button variant="outline" className="border-zenbuzz-purple text-zenbuzz-purple hover:text-zenbuzz-darkGray hover:bg-zenbuzz-purple/10 group px-8 py-6 text-lg">
               <span>Our Services</span>
               <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
             </Button>

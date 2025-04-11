@@ -29,10 +29,11 @@ const Navbar = () => {
   }, []);
 
   return (
-    <nav className={`fixed top-0 left-0 w-full z-50 transition-all duration-300 ${isScrolled ? 'bg-white shadow-md py-3' : 'bg-transparent py-5'}`}>
+    <nav className={`fixed top-0 left-0 w-full z-50 transition-all duration-300 ${isScrolled ? 'shadow-md py-3 backdrop-blur-md bg-white/30 bg-blend-saturation' : 'bg-transparent py-5'}`}>
       <div className="container-custom flex justify-between items-center">
         <a href="#home" className="flex items-center">
-          <span className="text-2xl font-bold text-zenbuzz-purple">Zen<span className="text-zenbuzz-darkPurple">Buzz</span></span>
+          {/* <span className="text-2xl font-bold text-zenbuzz-purple">Zen<span className="text-zenbuzz-darkPurple">Buzz</span></span> */}
+          <img src="/static/logo.png" alt="ZenBuzz Logo" className="h-24 w-24 object-cover"/>
         </a>
         
         {/* Desktop Navigation */}

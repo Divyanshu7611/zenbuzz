@@ -4,22 +4,22 @@ import { useState, useEffect } from 'react';
 
 const statsData = [
   {
-    icon: <Users className="h-10 w-10 text-zenbuzz-purple" />,
+    icon: <Users className="h-10 w-10 text-white" />,
     count: 250,
     label: "Happy Clients",
   },
   {
-    icon: <Award className="h-10 w-10 text-zenbuzz-purple" />,
+    icon: <Award className="h-10 w-10 text-white" />,
     count: 15,
     label: "Industry Awards",
   },
   {
-    icon: <Calendar className="h-10 w-10 text-zenbuzz-purple" />,
+    icon: <Calendar className="h-10 w-10 text-white" />,
     count: 8,
     label: "Years Experience",
   },
   {
-    icon: <TrendingUp className="h-10 w-10 text-zenbuzz-purple" />,
+    icon: <TrendingUp className="h-10 w-10 text-white" />,
     count: 520,
     label: "Projects Delivered",
   },
