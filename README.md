@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your Zenbuzz Project
 
 ## Project info
 
@@ -48,14 +48,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/db516d42-71c4-495e-bfbc-66d242d7c176) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
